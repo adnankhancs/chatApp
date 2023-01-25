@@ -1,0 +1,9 @@
+1)create npm----//
+2) create index,cs,js files------//
+3)install dependencies.express,nodemon(dev dep)-----//
+create express server (server.js)--------///
+do front end--------//
+install socket.io----setup socket.io in server.js and client client.js-----//
+client send message logic in client.js
+recieve message on bserver and broadcast to all clients
+recieve message o client and display it
